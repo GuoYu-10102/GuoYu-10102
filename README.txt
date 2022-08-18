@@ -1,5 +1,5 @@
 - 👋 Hi, I’m GuoYu-10102
 - 👀 I’m interested in play computer without games.
-- 🌱 I’m currently learning C programming language.
+- 🌱 I’m currently learning C++ programming language.
 - 💞️ I’m looking to Meet Gong Yujie in the future.
 - 📫 How do I get to my standard?
