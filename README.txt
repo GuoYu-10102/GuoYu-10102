@@ -2,4 +2,4 @@
 - 👀 I’m interested in play computer without games.
 - 🌱 I’m currently learning C++ programming language.
 - 💞️ I hope to see Gong Yujie again in the future.
-- 📫 How do I get to my standard?
+- 📫 What will I do?
